@@ -37,14 +37,14 @@
     color: white;
     letter-spacing: 23px;
     font-size: 125px;
-    text-align: center;
+    text-align: right;
     font-weight: lighter;
 }
 
 .info {
     color: white;
     font-size: 22px;
-    text-align: center;
+    text-align: right;
     font-weight: lighter;
     padding-left: 15px;
 }
