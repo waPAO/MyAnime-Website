@@ -33,20 +33,20 @@
 }
 
 .web-title {
-    padding-top: 15%;
+    padding-top: 8%;
     color: white;
     letter-spacing: 23px;
-    font-size: 125px;
-    text-align: right;
+    font-size: 150px;
     font-weight: lighter;
+    line-height: 80%;
 }
 
 .info {
     color: white;
-    font-size: 22px;
-    text-align: right;
+    font-size: 26px;
     font-weight: lighter;
-    padding-left: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .show {
